@@ -1,11 +1,51 @@
 body {
-    background-color: #cdb4db
+    background-color: #070707
 }
 
-.card {
+section {
     width: 75%;
-    background-color: #bde0fe;
     padding: 2rem;
-    margin: 2rem;
-
+    margin: auto; 
+    border: 2rem solid black;
+    text-align: center;
 }
+
+.orange {
+    background-color: #f58012; 
+    display: flex; 
+    justify-content:center;
+    justify-content: space-between;
+    padding: 2rem;
+ }
+
+.yellow {
+    background-color: #e3fc03;
+     
+ }
+
+.green {
+    background-color: #04ff3f;
+ }
+
+.blue {
+    background-color: #023ef2;
+ }
+
+.pink{
+    background-color: #ff04ea;
+} 
+
+.red{
+    background-color: #f20212;
+} 
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+.column {
+    flex: 33.33%;
+    padding: 5px;
+  } 
