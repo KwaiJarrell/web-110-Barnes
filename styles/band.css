@@ -8,6 +8,7 @@ section {
     margin: auto; 
     border: 2rem solid black;
     text-align: center;
+    font-family:fantasy;
 }
 
 .orange {
@@ -16,6 +17,7 @@ section {
     justify-content:center;
     justify-content: space-between;
     padding: 2rem;
+    font-family:fantasy;
  }
 
 .yellow {
